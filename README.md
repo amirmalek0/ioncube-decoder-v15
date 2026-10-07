@@ -11,6 +11,8 @@
 A commercial ionCube decoder that reconstructs readable PHP through a simple
 web interface.
 
+**Test decoding your files with [@ionrecoverbot](https://t.me/ionrecoverbot) on Telegram.**
+
 ## Compatibility
 
 | ionCube Encoder | Verified PHP targets |
