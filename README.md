@@ -4,6 +4,10 @@
 
 *Click the preview to watch the full-quality video.*
 
+[![Watch the ionCube Decoder demo on YouTube](https://img.youtube.com/vi/wCBz6fzBN0Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=wCBz6fzBN0Y)
+
+*[Watch the demo on YouTube](https://www.youtube.com/watch?v=wCBz6fzBN0Y).*
+
 A commercial ionCube decoder that reconstructs readable PHP through a simple
 web interface.
 
