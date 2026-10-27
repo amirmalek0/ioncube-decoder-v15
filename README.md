@@ -11,6 +11,7 @@
 <br>
 <br>
 <br>
+
 [![ionCube Decoder demo](docs/media/decoding-demo-preview.gif)](docs/media/decoding-demo.mp4)
 
 *Click the preview to watch the full-quality video.*
