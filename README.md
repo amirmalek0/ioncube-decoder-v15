@@ -29,6 +29,7 @@ web interface.
 
 | ionCube Encoder | Verified PHP targets |
 | --- | --- |
+| 7.0.8 | 5.3 (serialization 3) |
 | 10.2.0 | 7.1, 7.2 |
 | 10.2.2 | 7.1, 7.2 |
 | 11.0.1 | 7.4 |
@@ -47,6 +48,10 @@ web interface.
 
 Support depends on the Encoder version, PHP target, and protection options used
 for each file.
+
+Recognized binary ionCube inputs are identified alongside text-encoded files.
+External-key protected files require the correct key material; a missing key
+cannot be reconstructed from the protected file alone.
 
 Dynamic-key protected files may require the complete project ZIP, including
 key-generating companion files.
