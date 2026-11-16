@@ -45,6 +45,7 @@ web interface.
 | 14.0.3 | 8.2 |
 | 15.0.0 | 8.1, 8.2, 8.4 |
 | 15.0.1 | 7.1, 7.2, 7.4, 8.1, 8.2, 8.3, 8.4 |
+| 15.0.2 | 8.2, 8.3, 8.4 (serialization 6) |
 
 Support depends on the Encoder version, PHP target, and protection options used
 for each file.
